@@ -1,0 +1,20 @@
+body{
+    background-image: url("background.jpeg") ;
+    background-size: cover;
+}
+#text{
+    font-size: 680%;
+    background-color: rgb(241, 151, 224);
+    border-radius: 15%;
+    font-family: "Lakki Reddy", serif;
+    color: deeppink;
+}
+h3{
+    font-size: xx-large;
+    color: rgb(255, 0, 157);
+}
+h2{
+    font-size: 200%;
+    font-family: "Redressed", cursive;
+    color: crimson;
+}
